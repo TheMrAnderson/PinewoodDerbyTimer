@@ -24,7 +24,7 @@
  *-----------------------------------------*/
 #define NUM_LANES    4                 // number of lanes
 
-//#define LED_DISPLAY  1                 // Enable lane place/time displays
+#define LED_DISPLAY  1                 // Enable lane place/time displays
 #define SHOW_PLACE   1                 // Show place mode
 #define PLACE_DELAY  3                 // Delay (secs) when displaying time/place
 #define MIN_BRIGHT   0                 // minimum display brightness (0-15)
