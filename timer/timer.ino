@@ -26,7 +26,7 @@
 
 #define LED_DISPLAY  1                 // Enable lane place/time displays
 #define SHOW_PLACE   1                 // Show place mode
-#define PLACE_DELAY  3                 // Delay (secs) when displaying time/place
+#define PLACE_DELAY  2                 // Delay (secs) when displaying time/place
 #define MIN_BRIGHT   0                 // minimum display brightness (0-15)
 #define MAX_BRIGHT   15                // maximum display brightness (0-15)
 
