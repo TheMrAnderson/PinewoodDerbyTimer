@@ -103,7 +103,7 @@ byte START_SOL    = 13;                // start solenoid
 //
 //                    Lane #    1     2     3     4     5     6
 //
-int  DISP_ADD [MAX_LANES] = {0x70, 0x71, 0x72, 0x73, 0x74, 0x75};    // display I2C addresses
+int  DISP_ADD [MAX_LANES] = {0x70, 0x71, 0x72, 0x74, 0x73, 0x75};    // display I2C addresses
 byte LANE_DET [MAX_LANES] = {   2,    3,    4,    5,    6,    7};    // finish detection pins
 
 /*-----------------------------------------*
