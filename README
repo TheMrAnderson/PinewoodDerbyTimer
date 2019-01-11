@@ -1,3 +1,8 @@
+### This PDT is configured to run a Space Derby through a specially made track
+
+Feel free to fork for your own projects
+
+# Original Project Read Me
 The Pinewood Derby Timer (PDT) is an Arduino based track timer. The robust and 
 flexible design allows the PDT to be easily constructed and modified to meet 
 your specific needs. Features of the PDT include:
